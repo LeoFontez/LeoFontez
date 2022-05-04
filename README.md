@@ -31,4 +31,4 @@
     
   </div>
    
-  
+  ![Snake animation](https://github.com/LeoFontez/LeoFontez/blob/output/github-contribution-grid-snake.svg)
