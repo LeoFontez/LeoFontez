@@ -1,3 +1,5 @@
+![LeoFontez Readme Banner](https://github.com/LeoFontez/LeoFontez/blob/main/Assets/RainAnimation.gif)
+
 ## Olá! 👋
 ### Eu me chamo Leonardo,
 
